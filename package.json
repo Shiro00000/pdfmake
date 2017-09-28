@@ -1,5 +1,5 @@
 {
-  "name": "pdfmake",
+  "name": "pdfmake-fixImageSize",
   "version": "0.1.33",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
